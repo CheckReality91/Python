@@ -5,7 +5,7 @@ In de variabel 'weekmenu' staat een dictionary met key:value pairs voor elke dag
 
 dag_van_de_week vraagt de gebruiker om een dag van de week en slaat deze op. de ingevoerde string wordt omgezet naar alleen kleine letters.
 
-Daarna komt een loop die de gebruiker opnieuw naar de dag van de week vraagt als het ingevoerde dag niet in de dictionary staat.
+Daarna komt een loop die de gebruiker opnieuw naar de dag van de week vraagt als de ingevoerde dag niet in de dictionary staat.
 
 In het print functie wordt de tekst geprint met het gerecht van de dag die uit de dictionary wordt gehaald aan de hand van de key die de gebruiker heeft opgegeven.
 """
